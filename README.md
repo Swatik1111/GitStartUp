@@ -1,4 +1,4 @@
 # GitStartUp
 My first git app
 <br>
-Enjoying Git HUb
+Enjoying Git Hub
